@@ -140,15 +140,17 @@ Developed multiple custom systems based on client needs.
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="mailto:riyadhossein@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0e75b6?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://riyadhossein.com">
-    <img src="https://img.shields.io/badge/Website-0e75b6?style=flat-square&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-111827?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/riyadhossein">
-    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
