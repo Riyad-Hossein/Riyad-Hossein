@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riyad Hossein</h1>
 
 <p align="center">
-  <b>✉️ riyadhossein@gmail.com</b>
+  <b>✉️</b>
+  <a href="mailto:riyadhossein@gmail.com">riyadhossein@gmail.com</a>
 </p>
 
 <p align="center">
