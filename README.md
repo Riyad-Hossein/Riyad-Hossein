@@ -79,55 +79,66 @@
 
 ## 📌 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
 ### 🟢 SaaS POS System
-A scalable cloud-based POS system for modern businesses.
+> A scalable cloud-based POS system for modern businesses.  
+>  
+> **Key Features:**  
+> • Multi-user roles & permission management  
+> • Real-time sales, inventory & reporting  
+> • Multi-branch support  
+> • Invoice & billing system  
+> • Cloud-based analytics dashboard
 
-**Key Features:**
-- Multi-user roles & permission management  
-- Real-time sales, inventory & reporting  
-- Multi-branch support  
-- Invoice & billing system  
-- Cloud-based analytics dashboard  
-
----
+   </td>
+    <td width="50%" valign="top">
 
 ### 🔵 ERP & Accounting Software
-A complete solution for managing financial and business operations.
+> A complete solution for managing financial and business operations.  
+>  
+> **Key Features:**  
+> • Income, expense & transaction tracking  
+> • Profit & Loss, Balance Sheet reports  
+> • Customer & supplier management  
+> • Invoice, due & payment tracking  
+> • Employee management & HR module  
+> • Payroll system & salary processing  
+> • Attendance tracking & leave management  
+> • Role-based admin panel
 
-**Key Features:**
-- Income, expense & transaction tracking  
-- Profit & Loss, Balance Sheet reports  
-- Customer & supplier management  
-- Invoice, due & payment tracking  
-- Employee management & HR module  
-- Payroll system & salary processing  
-- Attendance tracking & leave management  
-- Role-based admin panel  
-
----
+   </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🟣 Booking Management Platform
-A flexible booking system for service-based businesses.
+> A flexible booking system for service-based businesses.  
+>  
+> **Key Features:**  
+> • Online booking & scheduling  
+> • Admin dashboard for full control  
+> • Payment integration  
+> • Calendar & availability management  
+> • Automated notifications
 
-**Key Features:**
-- Online booking & scheduling  
-- Admin dashboard for full control  
-- Payment integration  
-- Calendar & availability management  
-- Automated notifications  
-
----
+   </td>
+    <td width="50%" valign="top">
 
 ### 🟡 Custom Business Solutions
-Developed multiple custom systems based on client needs.
+> Developed multiple custom systems based on client needs.  
+>  
+> **Includes:**  
+> • HR & Employee Management Systems  
+> • Pharmaceutical Management Software  
+> • Company & Corporate Websites  
+> • Custom Admin Panels & Tools
 
-**Includes:**
-- HR & Employee Management Systems  
-- Pharmaceutical Management Software  
-- Company & Corporate Websites  
-- Custom Admin Panels & Tools  
-
----
+   </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
