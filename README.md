@@ -93,6 +93,9 @@ A complete solution for managing financial and business operations.
 - Profit & Loss, Balance Sheet reports  
 - Customer & supplier management  
 - Invoice, due & payment tracking  
+- Employee management & HR module  
+- Payroll system & salary processing  
+- Attendance tracking & leave management  
 - Role-based admin panel  
 
 ---
