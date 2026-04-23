@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Riyad Hossein</h1>
 
 <p align="center">
-  <sub><a href="mailto:riyadhossein@gmail.com">riyadhossein@gmail.com</a></sub>
+  <a href="mailto:riyadhossein@gmail.com" style="text-decoration:none;">
+    <span style="padding:10px 18px; border-radius:999px; background:#0e75b6; color:white;">
+      📧 Contact: riyadhossein@gmail.com
+    </span>
+  </a>
 </p>
 
 <p align="center">
