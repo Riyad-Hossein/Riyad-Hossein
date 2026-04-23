@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:riyadhossein@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20riyadhossein@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/riyadhossein@gmail.com-1f2937?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
