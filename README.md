@@ -15,63 +15,108 @@
 
 ## 🚀 About Me
 
-- 💻 I specialize in **Laravel & Next.js** development  
+- 💻 متخصص في **Laravel & Next.js development**  
 - 🏗️ Building **SaaS, ERP, POS & business automation systems**  
-- ⚡ Focused on **scalable architecture & clean code**  
-- 🌍 Passionate about solving real-world business problems  
+- ⚡ Focused on **scalable architecture, performance & clean code**  
+- 🌍 Passionate about solving **real-world business problems with technology**  
+- 🎯 Capable of developing **fully customized software solutions for any industry**
 
 ---
 
 ## 🛠 Tech Stack
 
 ### ⚙️ Backend
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🌐 Frontend
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Vue JS](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue JS](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🎨 UI & Styling
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🗄 Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 🔥 Core Expertise
 
-- 🧾 Accounting & ERP Systems  
-- 🛒 E-commerce Platforms  
-- 🏪 POS & Inventory Management  
-- 📅 Booking & Reservation Systems  
-- 🔐 REST API Development & Integration  
+- 🧾 **Accounting, ERP & Business Automation Systems**  
+  Advanced financial solutions including ledger, invoicing, balance sheet, profit & loss, and reporting dashboards.
+
+- 🛒 **E-commerce & Multi-Vendor Platforms**  
+  Complete online store systems with order management, payment gateway integration, product control, and analytics.
+
+- 🏪 **POS & Inventory Management Systems**  
+  Real-time sales tracking, stock control, barcode support, and multi-branch management.
+
+- 📅 **Booking & Reservation Systems**  
+  Scalable scheduling platforms with admin dashboards, availability control, and automation features.
+
+- 👨‍💼 **HR & Company Management Software**  
+  Employee management, payroll systems, attendance tracking, and workflow automation.
+
+- 💊 **Custom Industry Solutions (Pharmaceutical, Corporate, etc.)**  
+  Tailor-made software solutions for specific business needs including pharmaceutical systems and company websites.
+
+- 🔐 **REST API Development & System Integration**  
+  Secure APIs, third-party integrations, and scalable backend architecture.
+
+- ⚙️ **Custom Software Development**  
+  I can design and develop **any customized software solution based on business requirements**.
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🟢 SaaS POS System
-- Multi-user system with role management  
-- Real-time sales & inventory tracking  
-- Cloud-based reporting dashboard  
+A scalable cloud-based POS solution for modern businesses.
+
+**Key Features:**
+- Multi-user roles & permission management  
+- Real-time sales, inventory & reporting  
+- Multi-branch system support  
+- Invoice & billing system  
+- Cloud-based analytics dashboard  
 
 ---
 
 ### 🔵 ERP & Accounting Software
-- Income/Expense tracking  
-- Financial reports (P&L, balance sheet)  
+A complete business management solution for financial and operational control.
+
+**Key Features:**
+- Income, expense & transaction tracking  
+- Profit & Loss, Balance Sheet reports  
 - Customer & supplier management  
+- Invoice, due & payment tracking  
+- Role-based admin panel  
 
 ---
 
 ### 🟣 Booking Management Platform
-- Online booking system  
-- Admin dashboard  
-- Payment & scheduling integration  
+A flexible booking system for service-based businesses.
+
+**Key Features:**
+- Online booking & scheduling system  
+- Admin dashboard for full control  
+- Payment gateway integration  
+- Calendar & availability management  
+- Automated notifications system  
+
+---
+
+### 🟡 Custom Business Solutions
+Developed multiple tailored systems based on client requirements.
+
+**Includes:**
+- HR & Employee Management Systems  
+- Pharmaceutical Management Software  
+- Company & Corporate Websites  
+- Custom Admin Panels & Tools  
 
 ---
 
@@ -87,13 +132,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/riyadhossein">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:riyadhossein@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://yoursite.com">
+  <a href="https://riyadhossein.com">
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome">
   </a>
 </p>
