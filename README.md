@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riyad Hossein</h1>
 
 <p align="center">
-  <a href="mailto:riyadhossein@gmail.com" style="text-decoration:none;">
-    <span style="padding:10px 18px; border-radius:999px; background:#0e75b6; color:white;">
-      📧 Contact: riyadhossein@gmail.com
-    </span>
+  <a href="mailto:riyadhossein@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20riyadhossein@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
