@@ -83,60 +83,64 @@
   <tr>
     <td width="50%" valign="top">
 
-### 🟢 SaaS POS System
-> A scalable cloud-based POS system for modern businesses.  
->  
-> **Key Features:**  
-> • Multi-user roles & permission management  
-> • Real-time sales, inventory & reporting  
-> • Multi-branch support  
-> • Invoice & billing system  
-> • Cloud-based analytics dashboard
+### 🟢 SaaS POS System  
+`Cloud-Based Business Solution`
 
-   </td>
+A scalable cloud-based POS system for modern businesses.
+
+- Multi-user roles & permission management  
+- Real-time sales, inventory & reporting  
+- Multi-branch support  
+- Invoice & billing system  
+- Cloud-based analytics dashboard  
+
+</td>
     <td width="50%" valign="top">
 
-### 🔵 ERP & Accounting Software
-> A complete solution for managing financial and business operations.  
->  
-> **Key Features:**  
-> • Income, expense & transaction tracking  
-> • Profit & Loss, Balance Sheet reports  
-> • Customer & supplier management  
-> • Invoice, due & payment tracking  
-> • Employee management & HR module  
-> • Payroll system & salary processing  
-> • Attendance tracking & leave management  
-> • Role-based admin panel
+### 🔵 ERP & Accounting Software  
+`Business Operations & Finance`
 
-   </td>
+A complete solution for managing financial and business operations.
+
+- Income, expense & transaction tracking  
+- Profit & Loss, Balance Sheet reports  
+- Customer & supplier management  
+- Invoice, due & payment tracking  
+- Employee management & HR module  
+- Payroll system & salary processing  
+- Attendance tracking & leave management  
+- Role-based admin panel  
+
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### 🟣 Booking Management Platform
-> A flexible booking system for service-based businesses.  
->  
-> **Key Features:**  
-> • Online booking & scheduling  
-> • Admin dashboard for full control  
-> • Payment integration  
-> • Calendar & availability management  
-> • Automated notifications
+### 🟣 Booking Management Platform  
+`Scheduling & Service Automation`
 
-   </td>
+A flexible booking system for service-based businesses.
+
+- Online booking & scheduling  
+- Admin dashboard for full control  
+- Payment integration  
+- Calendar & availability management  
+- Automated notifications  
+
+</td>
     <td width="50%" valign="top">
 
-### 🟡 Custom Business Solutions
-> Developed multiple custom systems based on client needs.  
->  
-> **Includes:**  
-> • HR & Employee Management Systems  
-> • Pharmaceutical Management Software  
-> • Company & Corporate Websites  
-> • Custom Admin Panels & Tools
+### 🟡 Custom Business Solutions  
+`Tailored Industry Software`
 
-   </td>
+Developed multiple custom systems based on client needs.
+
+- HR & Employee Management Systems  
+- Pharmaceutical Management Software  
+- Company & Corporate Websites  
+- Custom Admin Panels & Tools  
+
+</td>
   </tr>
 </table>
 
