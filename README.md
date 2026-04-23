@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riyad Hossein</h1>
 
 <p align="center">
-  <a href="mailto:riyadhossein@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20riyadhossein@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <sub>📫 <a href="mailto:riyadhossein@gmail.com">riyadhossein@gmail.com</a></sub>
 </p>
 
 <p align="center">
