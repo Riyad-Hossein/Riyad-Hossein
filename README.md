@@ -83,10 +83,8 @@
   <tr>
     <td width="50%" valign="top">
 
-### 🟢 SaaS POS System  
-`Cloud-Based Business Solution`
-
-A scalable cloud-based POS system for modern businesses.
+## 🟢 SaaS POS System
+**A scalable cloud-based POS system for modern businesses**
 
 - Multi-user roles & permission management  
 - Real-time sales, inventory & reporting  
@@ -97,10 +95,8 @@ A scalable cloud-based POS system for modern businesses.
 </td>
     <td width="50%" valign="top">
 
-### 🔵 ERP & Accounting Software  
-`Business Operations & Finance`
-
-A complete solution for managing financial and business operations.
+## 🔵 ERP & Accounting Software
+**A complete solution for managing financial and business operations**
 
 - Income, expense & transaction tracking  
 - Profit & Loss, Balance Sheet reports  
@@ -116,10 +112,8 @@ A complete solution for managing financial and business operations.
   <tr>
     <td width="50%" valign="top">
 
-### 🟣 Booking Management Platform  
-`Scheduling & Service Automation`
-
-A flexible booking system for service-based businesses.
+## 🟣 Booking Management Platform
+**A flexible booking system for service-based businesses**
 
 - Online booking & scheduling  
 - Admin dashboard for full control  
@@ -130,10 +124,8 @@ A flexible booking system for service-based businesses.
 </td>
     <td width="50%" valign="top">
 
-### 🟡 Custom Business Solutions  
-`Tailored Industry Software`
-
-Developed multiple custom systems based on client needs.
+## 🟡 Custom Business Solutions
+**Tailored systems developed based on unique business requirements**
 
 - HR & Employee Management Systems  
 - Pharmaceutical Management Software  
