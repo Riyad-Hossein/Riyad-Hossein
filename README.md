@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 💻 متخصص في **Laravel & Next.js development**  
+- 💻 Specialized in **Laravel & Next.js development**  
 - 🏗️ Building **SaaS, ERP, POS & business automation systems**  
 - ⚡ Focused on **scalable architecture, performance & clean code**  
 - 🌍 Passionate about solving **real-world business problems with technology**  
@@ -46,47 +46,47 @@
 ## 🔥 Core Expertise
 
 - 🧾 **Accounting, ERP & Business Automation Systems**  
-  Advanced financial solutions including ledger, invoicing, balance sheet, profit & loss, and reporting dashboards.
+  Full financial solutions including invoicing, ledger, profit & loss, balance sheet, and reporting dashboards.
 
 - 🛒 **E-commerce & Multi-Vendor Platforms**  
-  Complete online store systems with order management, payment gateway integration, product control, and analytics.
+  Complete online store systems with order management, payment integration, product control, and analytics.
 
 - 🏪 **POS & Inventory Management Systems**  
-  Real-time sales tracking, stock control, barcode support, and multi-branch management.
+  Real-time sales tracking, stock control, barcode integration, and multi-branch operations.
 
 - 📅 **Booking & Reservation Systems**  
-  Scalable scheduling platforms with admin dashboards, availability control, and automation features.
+  Scalable scheduling systems with admin dashboards, availability control, and automation.
 
 - 👨‍💼 **HR & Company Management Software**  
-  Employee management, payroll systems, attendance tracking, and workflow automation.
+  Employee management, payroll, attendance tracking, and workflow systems.
 
 - 💊 **Custom Industry Solutions (Pharmaceutical, Corporate, etc.)**  
-  Tailor-made software solutions for specific business needs including pharmaceutical systems and company websites.
+  Tailor-made systems based on specific business needs including pharma software and corporate tools.
 
 - 🔐 **REST API Development & System Integration**  
   Secure APIs, third-party integrations, and scalable backend architecture.
 
 - ⚙️ **Custom Software Development**  
-  I can design and develop **any customized software solution based on business requirements**.
+  Able to design and develop **any customized software solution based on business requirements**.
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🟢 SaaS POS System
-A scalable cloud-based POS solution for modern businesses.
+A scalable cloud-based POS system for modern businesses.
 
 **Key Features:**
 - Multi-user roles & permission management  
 - Real-time sales, inventory & reporting  
-- Multi-branch system support  
+- Multi-branch support  
 - Invoice & billing system  
 - Cloud-based analytics dashboard  
 
 ---
 
 ### 🔵 ERP & Accounting Software
-A complete business management solution for financial and operational control.
+A complete solution for managing financial and business operations.
 
 **Key Features:**
 - Income, expense & transaction tracking  
@@ -101,16 +101,16 @@ A complete business management solution for financial and operational control.
 A flexible booking system for service-based businesses.
 
 **Key Features:**
-- Online booking & scheduling system  
+- Online booking & scheduling  
 - Admin dashboard for full control  
-- Payment gateway integration  
+- Payment integration  
 - Calendar & availability management  
-- Automated notifications system  
+- Automated notifications  
 
 ---
 
 ### 🟡 Custom Business Solutions
-Developed multiple tailored systems based on client requirements.
+Developed multiple custom systems based on client needs.
 
 **Includes:**
 - HR & Employee Management Systems  
